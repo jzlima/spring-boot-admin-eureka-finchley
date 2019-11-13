@@ -2,4 +2,4 @@
 
 Zull was moved to maintance mode
 
-migrate to getway-cloud
+migrate to gateway-service
